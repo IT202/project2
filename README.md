@@ -8,9 +8,9 @@ Check the requirements and the hints, and ask questions in Piazza.
 
 ## Requirements
 
-1. Change the color from the orange to one of the primary UIC colors.  (Take a look at https://marketing.uic.edu/visual-elements/ to find the color codes for UIC.)
+1. Change the color from the orange to one of the primary UIC colors. 
 
-2. Change "Company Name" to some made-up company name.
+2. Change "Company" to some made-up company name.
 
 3. Change the "Services" section from two rows of 3 tiles to one row of 4 tiles.
 
@@ -56,4 +56,10 @@ These hints relate to the numbered requirements.
 9. Similar to #8, with one wrinkle.  Keep in mind that indexes are zero-based in JavaScript (not that you need to write any JavaScript.)
 
 10. ` add, commit, push `  And don't make any changes directly on GitHub!
+
+To get the Google Map to load, either remove the `apiKey` URL parameter from the `script` tag for the Google Maps API, or update the value with your own key.   Navigate to https://developers.google.com/maps/ , click the __Get Started__ button, select __Google Maps JavaScript API__, and on _that_ page, click the __GET A KEY__ button.  
+
+You're going to need your own key for later projects.
+
+
 
