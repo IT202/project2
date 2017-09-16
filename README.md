@@ -33,10 +33,9 @@ Check the requirements and the hints, and ask questions in Piazza.
 
 As you start, you may not have any idea how to accomplish some of these things, but the Dev Tools will help you get there.  You'll need to "Inspect" elements, and use the Elements pane in the Dev Tools to explore the structure of a specific element (and the elements above and below in the DOM hierarchy) and to explore the styles applied to a specific element.
 
-First, you need to get the template.  Navigate to w3schools, then to their Bootstrap tutorial, and find the __Company__ theme.  
+First, you need to get the template.  Navigate to w3schools, then to their Bootstrap tutorial, and find the __Company__ theme.  I'm not expecting you to work through the steps of how they built it, but it is useful.)
 
-(I'm not looking for you to work through the steps of how they built it, but it's useful to look through.)
-
+These hints relate to the numbered requirements.
 
 1. Take a look at https://marketing.uic.edu/visual-elements/ to find the color codes for UIC.  Use the Dev Tools to explore where and how the orange color is being set.
 
