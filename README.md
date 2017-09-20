@@ -22,9 +22,9 @@ Check the requirements and the hints, and ask questions in Piazza.
 
 7. Change the text on the "Portfolio" items.
 
-8. Add another "What Our Customers Say" slide, with different content.
+8. Add another "What Our Customers Say" slide/review, with different content.
 
-9. Add another indicator/link for that new slide (below the slide set.)
+9. Add another indicator/~~link~~navigation "dot" for that new slide/review (below the slide set.)
 
 10. Name the file `index.html`, in a folder named `project2`, and make sure it's accessible on GitHub.
 
